@@ -1,0 +1,15 @@
+.container {
+    margin-top: 100px;
+}
+
+ul {
+    margin-top: 20px;
+}
+ul li {
+    margin-top: 10px;
+}
+
+.box {
+    margin: 0 auto;
+    width: 300px;
+}
